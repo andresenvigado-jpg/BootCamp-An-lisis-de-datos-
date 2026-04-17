@@ -1,0 +1,102 @@
+﻿ID Venta;Fecha;Categoría;Producto;Canal de Venta;Ciudad;Vendedor;Unidades;Precio Unitario (COP);Subtotal (COP);Descuento (%);Descuento (COP);Total Venta (COP);Método de Pago;Calificación Cliente
+VTA-2024001;14/02/2024;Ropa y Accesorios;Camiseta Polo;Marketplace;Barranquilla;María González;5;84.000;420.000;15,0%;63.000;357.000;Daviplata;4,8
+VTA-2024002;28/11/2024;Alimentos;Café Gourmet 500g;Tienda Física;Medellín;María González;8;81.000;648.000;10,0%;64.800;583.200;Efectivo;4,1
+VTA-2024003;20/04/2024;Alimentos;Chocolate Artesanal;App Móvil;Cartagena;Carlos Ríos;6;107.000;642.000;5,0%;32.100;609.900;Tarjeta Débito;3,6
+VTA-2024004;23/01/2024;Juguetes;LEGO Creator;Tienda Física;Pereira;Ana Martínez;12;247.000;2.964.000;0,0%;0;2.964.000;Nequi;3,5
+VTA-2024005;04/07/2024;Libros y Papelería;Calculadora Científica;Tienda Física;Pereira;Ana Martínez;18;50.000;900.000;20,0%;180.000;720.000;Daviplata;4,2
+VTA-2024006;13/07/2024;Deportes;Botella Térmica;Tienda Física;Bogotá;María González;10;217.000;2.170.000;20,0%;434.000;1.736.000;Tarjeta Crédito;4,7
+VTA-2024007;15/12/2024;Belleza y Salud;Afeitadora Eléctrica;Marketplace;Cali;Andrés López;12;130.000;1.560.000;15,0%;234.000;1.326.000;Tarjeta Débito;4,4
+VTA-2024008;22/04/2024;Ropa y Accesorios;Bolso Cuero;E-commerce;Barranquilla;Luis Herrera;15;229.000;3.435.000;0,0%;0;3.435.000;Daviplata;4,4
+VTA-2024009;17/10/2024;Juguetes;LEGO Creator;E-commerce;Bogotá;Andrés López;13;95.000;1.235.000;0,0%;0;1.235.000;Tarjeta Crédito;4,8
+VTA-2024010;02/10/2024;Juguetes;Muñeca Barbie;App Móvil;Pereira;Diego Morales;5;94.000;470.000;0,0%;0;470.000;Tarjeta Crédito;4,5
+VTA-2024011;16/02/2024;Belleza y Salud;Suplemento Vitamínico;Catálogo;Pereira;Julián Torres;13;210.000;2.730.000;0,0%;0;2.730.000;Tarjeta Crédito;4
+VTA-2024012;27/08/2024;Electrónica;Smartphone Samsung A54;E-commerce;Cali;Valentina Cruz;20;283.000;5.660.000;5,0%;283.000;5.377.000;PSE;4,2
+VTA-2024013;10/08/2024;Belleza y Salud;Kit Maquillaje;Tienda Física;Medellín;Paola Vargas;9;423.000;3.807.000;15,0%;571.050;3.235.950;Tarjeta Débito;3,2
+VTA-2024014;23/11/2024;Hogar y Cocina;Aspiradora Robótica;Tienda Física;Cartagena;Paola Vargas;6;612.000;3.672.000;0,0%;0;3.672.000;Daviplata;3,6
+VTA-2024015;27/02/2024;Deportes;Pesas Ajustables;Marketplace;Cali;Paola Vargas;17;51.000;867.000;10,0%;86.700;780.300;Tarjeta Débito;4
+VTA-2024016;05/02/2024;Juguetes;Carro Radio Control;E-commerce;Bogotá;María González;19;273.000;5.187.000;0,0%;0;5.187.000;Efectivo;4,5
+VTA-2024017;19/12/2024;Hogar y Cocina;Set Ollas Antiadherentes;App Móvil;Cali;Sofía Restrepo;17;716.000;12.172.000;5,0%;608.600;11.563.400;Tarjeta Crédito;4,9
+VTA-2024018;02/02/2024;Deportes;Botella Térmica;Marketplace;Pereira;Andrés López;15;1.135.000;17.025.000;5,0%;851.250;16.173.750;Efectivo;3,5
+VTA-2024019;27/04/2024;Juguetes;LEGO Creator;Catálogo;Barranquilla;Julián Torres;8;27.000;216.000;0,0%;0;216.000;Daviplata;4,3
+VTA-2024020;08/03/2024;Ropa y Accesorios;Camiseta Polo;Marketplace;Medellín;Paola Vargas;8;176.000;1.408.000;15,0%;211.200;1.196.800;PSE;3,4
+VTA-2024021;29/07/2024;Libros y Papelería;Agenda Ejecutiva 2025;App Móvil;Pereira;María González;4;25.000;100.000;15,0%;15.000;85.000;PSE;3,7
+VTA-2024022;07/04/2024;Libros y Papelería;Atlas Mundial;Tienda Física;Medellín;Carlos Ríos;13;56.000;728.000;20,0%;145.600;582.400;Efectivo;3,5
+VTA-2024023;08/10/2024;Libros y Papelería;Agenda Ejecutiva 2025;App Móvil;Cali;Sofía Restrepo;15;45.000;675.000;20,0%;135.000;540.000;Efectivo;3,9
+VTA-2024024;24/07/2024;Ropa y Accesorios;Camiseta Polo;Catálogo;Bogotá;Ana Martínez;8;117.000;936.000;5,0%;46.800;889.200;PSE;4
+VTA-2024025;22/12/2024;Electrónica;Auriculares Bluetooth;App Móvil;Bogotá;Valentina Cruz;9;1.794.000;16.146.000;20,0%;3.229.200;12.916.800;PSE;3,6
+VTA-2024026;09/06/2024;Libros y Papelería;Agenda Ejecutiva 2025;E-commerce;Cartagena;María González;2;88.000;176.000;15,0%;26.400;149.600;Nequi;3,1
+VTA-2024027;05/04/2024;Electrónica;Smartphone Samsung A54;Catálogo;Manizales;Paola Vargas;17;480.000;8.160.000;0,0%;0;8.160.000;Nequi;3,2
+VTA-2024028;13/11/2024;Ropa y Accesorios;Bolso Cuero;Tienda Física;Barranquilla;Valentina Cruz;4;329.000;1.316.000;0,0%;0;1.316.000;Nequi;4,2
+VTA-2024029;09/12/2024;Ropa y Accesorios;Zapatillas Running;Catálogo;Bucaramanga;Sofía Restrepo;7;195.000;1.365.000;0,0%;0;1.365.000;Tarjeta Débito;3,8
+VTA-2024030;19/04/2024;Belleza y Salud;Afeitadora Eléctrica;Marketplace;Medellín;Carlos Ríos;15;346.000;5.190.000;10,0%;519.000;4.671.000;Efectivo;3,1
+VTA-2024031;26/12/2024;Belleza y Salud;Perfume Carolina Herrera;Marketplace;Medellín;María González;12;169.000;2.028.000;0,0%;0;2.028.000;PSE;4,7
+VTA-2024032;24/02/2024;Belleza y Salud;Kit Maquillaje;Catálogo;Bogotá;Paola Vargas;10;368.000;3.680.000;0,0%;0;3.680.000;Tarjeta Crédito;3,5
+VTA-2024033;08/05/2024;Hogar y Cocina;Licuadora Oster;Marketplace;Barranquilla;Andrés López;7;801.000;5.607.000;15,0%;841.050;4.765.950;Tarjeta Débito;4
+VTA-2024034;14/05/2024;Electrónica;Smartphone Samsung A54;App Móvil;Cartagena;Carlos Ríos;1;850.000;850.000;20,0%;170.000;680.000;Tarjeta Crédito;4,3
+VTA-2024035;06/10/2024;Hogar y Cocina;Set Cuchillos;App Móvil;Pereira;Paola Vargas;1;197.000;197.000;0,0%;0;197.000;Daviplata;4,8
+VTA-2024036;21/01/2024;Electrónica;Tablet Lenovo;Catálogo;Cali;Valentina Cruz;5;238.000;1.190.000;0,0%;0;1.190.000;Tarjeta Débito;4,8
+VTA-2024037;20/03/2024;Juguetes;Muñeca Barbie;E-commerce;Medellín;Andrés López;18;257.000;4.626.000;20,0%;925.200;3.700.800;PSE;4,9
+VTA-2024038;07/05/2024;Deportes;Pesas Ajustables;E-commerce;Pereira;Carlos Ríos;6;747.000;4.482.000;20,0%;896.400;3.585.600;PSE;4,6
+VTA-2024039;26/04/2024;Belleza y Salud;Perfume Carolina Herrera;Tienda Física;Pereira;Carlos Ríos;16;137.000;2.192.000;0,0%;0;2.192.000;PSE;3,7
+VTA-2024040;17/09/2024;Deportes;Bicicleta Montaña;E-commerce;Pereira;Andrés López;9;196.000;1.764.000;20,0%;352.800;1.411.200;Tarjeta Débito;3,7
+VTA-2024041;15/05/2024;Alimentos;Té Orgánico;Catálogo;Bucaramanga;Carlos Ríos;4;49.000;196.000;0,0%;0;196.000;Nequi;4,9
+VTA-2024042;22/10/2024;Electrónica;Smartphone Samsung A54;Catálogo;Pereira;Andrés López;11;1.065.000;11.715.000;10,0%;1.171.500;10.543.500;Nequi;3,2
+VTA-2024043;09/12/2024;Deportes;Colchoneta Yoga;Tienda Física;Pereira;Carlos Ríos;17;1.179.000;20.043.000;15,0%;3.006.450;17.036.550;Daviplata;4,9
+VTA-2024044;02/06/2024;Deportes;Colchoneta Yoga;App Móvil;Medellín;Andrés López;20;708.000;14.160.000;15,0%;2.124.000;12.036.000;Efectivo;4,4
+VTA-2024045;13/07/2024;Belleza y Salud;Suplemento Vitamínico;App Móvil;Bucaramanga;Valentina Cruz;10;311.000;3.110.000;0,0%;0;3.110.000;Tarjeta Crédito;3,8
+VTA-2024046;23/10/2024;Hogar y Cocina;Plancha Vapor;Catálogo;Cartagena;Valentina Cruz;18;80.000;1.440.000;0,0%;0;1.440.000;Tarjeta Débito;3,4
+VTA-2024047;13/02/2024;Juguetes;Rompecabezas 1000pzs;App Móvil;Manizales;María González;17;149.000;2.533.000;20,0%;506.600;2.026.400;Daviplata;3,3
+VTA-2024048;16/03/2024;Belleza y Salud;Kit Maquillaje;Catálogo;Bucaramanga;Ana Martínez;8;373.000;2.984.000;0,0%;0;2.984.000;Tarjeta Crédito;4,6
+VTA-2024049;22/12/2024;Electrónica;Smartphone Samsung A54;E-commerce;Manizales;Julián Torres;3;1.105.000;3.315.000;5,0%;165.750;3.149.250;Daviplata;4,2
+VTA-2024050;22/04/2024;Alimentos;Aceite de Oliva Extra Virgen;App Móvil;Barranquilla;Luis Herrera;1;113.000;113.000;20,0%;22.600;90.400;Efectivo;4,6
+VTA-2024051;25/08/2024;Hogar y Cocina;Set Cuchillos;Catálogo;Manizales;Carlos Ríos;18;341.000;6.138.000;20,0%;1.227.600;4.910.400;Efectivo;3,9
+VTA-2024052;18/08/2024;Juguetes;Rompecabezas 1000pzs;Catálogo;Pereira;Paola Vargas;15;260.000;3.900.000;0,0%;0;3.900.000;Daviplata;4,7
+VTA-2024053;19/05/2024;Belleza y Salud;Perfume Carolina Herrera;Marketplace;Manizales;María González;9;251.000;2.259.000;0,0%;0;2.259.000;Daviplata;3,6
+VTA-2024054;19/04/2024;Juguetes;Carro Radio Control;Catálogo;Medellín;Luis Herrera;5;86.000;430.000;5,0%;21.500;408.500;Daviplata;3,3
+VTA-2024055;18/07/2024;Ropa y Accesorios;Zapatillas Running;App Móvil;Bucaramanga;Paola Vargas;15;248.000;3.720.000;0,0%;0;3.720.000;Tarjeta Crédito;4,7
+VTA-2024056;02/08/2024;Electrónica;Cargador Inalámbrico;App Móvil;Manizales;Carlos Ríos;12;776.000;9.312.000;20,0%;1.862.400;7.449.600;PSE;4,7
+VTA-2024057;26/07/2024;Deportes;Raqueta Tenis;E-commerce;Cartagena;Valentina Cruz;16;111.000;1.776.000;5,0%;88.800;1.687.200;Tarjeta Débito;4,3
+VTA-2024058;07/08/2024;Hogar y Cocina;Aspiradora Robótica;E-commerce;Bogotá;Valentina Cruz;19;672.000;12.768.000;15,0%;1.915.200;10.852.800;Efectivo;3,2
+VTA-2024059;13/07/2024;Hogar y Cocina;Aspiradora Robótica;E-commerce;Bogotá;Sofía Restrepo;13;423.000;5.499.000;0,0%;0;5.499.000;PSE;3,7
+VTA-2024060;28/06/2024;Belleza y Salud;Afeitadora Eléctrica;Marketplace;Medellín;Diego Morales;1;413.000;413.000;10,0%;41.300;371.700;Efectivo;5
+VTA-2024061;02/05/2024;Deportes;Botella Térmica;Tienda Física;Bogotá;Carlos Ríos;8;468.000;3.744.000;20,0%;748.800;2.995.200;Efectivo;4,2
+VTA-2024062;28/02/2024;Hogar y Cocina;Aspiradora Robótica;Tienda Física;Barranquilla;Diego Morales;9;884.000;7.956.000;0,0%;0;7.956.000;Tarjeta Crédito;4,2
+VTA-2024063;11/04/2024;Hogar y Cocina;Licuadora Oster;Tienda Física;Bogotá;Sofía Restrepo;19;790.000;15.010.000;5,0%;750.500;14.259.500;PSE;4,9
+VTA-2024064;26/06/2024;Ropa y Accesorios;Bolso Cuero;E-commerce;Medellín;Sofía Restrepo;20;93.000;1.860.000;20,0%;372.000;1.488.000;Nequi;4,6
+VTA-2024065;24/02/2024;Alimentos;Té Orgánico;Marketplace;Medellín;Paola Vargas;11;17.000;187.000;20,0%;37.400;149.600;PSE;4,6
+VTA-2024066;02/10/2024;Alimentos;Kit Snacks Saludables;App Móvil;Cali;Valentina Cruz;6;111.000;666.000;10,0%;66.600;599.400;Daviplata;3,5
+VTA-2024067;25/08/2024;Libros y Papelería;Cuaderno Moleskine;App Móvil;Cartagena;Andrés López;8;23.000;184.000;0,0%;0;184.000;PSE;3,5
+VTA-2024068;23/06/2024;Alimentos;Kit Snacks Saludables;Tienda Física;Manizales;Andrés López;6;79.000;474.000;0,0%;0;474.000;Tarjeta Débito;4,6
+VTA-2024069;11/10/2024;Belleza y Salud;Kit Maquillaje;Marketplace;Bogotá;Paola Vargas;7;65.000;455.000;0,0%;0;455.000;Daviplata;3,8
+VTA-2024070;04/05/2024;Deportes;Botella Térmica;App Móvil;Manizales;Diego Morales;1;245.000;245.000;0,0%;0;245.000;Tarjeta Crédito;3,8
+VTA-2024071;08/10/2024;Belleza y Salud;Suplemento Vitamínico;Catálogo;Bucaramanga;Diego Morales;18;298.000;5.364.000;0,0%;0;5.364.000;PSE;5
+VTA-2024072;02/03/2024;Juguetes;Carro Radio Control;App Móvil;Cartagena;Sofía Restrepo;9;85.000;765.000;0,0%;0;765.000;Daviplata;3,4
+VTA-2024073;21/02/2024;Hogar y Cocina;Set Ollas Antiadherentes;E-commerce;Manizales;Sofía Restrepo;19;877.000;16.663.000;10,0%;1.666.300;14.996.700;Nequi;3,6
+VTA-2024074;24/01/2024;Deportes;Colchoneta Yoga;E-commerce;Bucaramanga;Luis Herrera;10;80.000;800.000;15,0%;120.000;680.000;Nequi;3,3
+VTA-2024075;13/08/2024;Electrónica;Cargador Inalámbrico;Marketplace;Cali;Diego Morales;4;176.000;704.000;10,0%;70.400;633.600;Tarjeta Débito;3,9
+VTA-2024076;22/10/2024;Juguetes;Muñeca Barbie;Tienda Física;Cartagena;Diego Morales;4;241.000;964.000;0,0%;0;964.000;PSE;4
+VTA-2024077;12/11/2024;Electrónica;Auriculares Bluetooth;E-commerce;Cartagena;Ana Martínez;8;398.000;3.184.000;10,0%;318.400;2.865.600;PSE;4,2
+VTA-2024078;08/11/2024;Deportes;Casco Ciclismo;App Móvil;Manizales;Diego Morales;10;949.000;9.490.000;0,0%;0;9.490.000;Nequi;4,2
+VTA-2024079;02/01/2024;Ropa y Accesorios;Jean Slim Fit;E-commerce;Cartagena;Ana Martínez;6;156.000;936.000;0,0%;0;936.000;Nequi;3,2
+VTA-2024080;20/08/2024;Alimentos;Aceite de Oliva Extra Virgen;Catálogo;Manizales;Sofía Restrepo;2;45.000;90.000;0,0%;0;90.000;Daviplata;3,6
+VTA-2024081;17/03/2024;Ropa y Accesorios;Gorra Deportiva;E-commerce;Cartagena;Julián Torres;7;253.000;1.771.000;0,0%;0;1.771.000;Nequi;3,4
+VTA-2024082;12/08/2024;Belleza y Salud;Perfume Carolina Herrera;Tienda Física;Bogotá;Luis Herrera;10;332.000;3.320.000;15,0%;498.000;2.822.000;Nequi;4,8
+VTA-2024083;21/01/2024;Ropa y Accesorios;Zapatillas Running;Marketplace;Pereira;Sofía Restrepo;17;313.000;5.321.000;5,0%;266.050;5.054.950;PSE;3,2
+VTA-2024084;11/01/2024;Alimentos;Té Orgánico;Marketplace;Cartagena;Carlos Ríos;3;45.000;135.000;15,0%;20.250;114.750;Nequi;4,2
+VTA-2024085;26/10/2024;Belleza y Salud;Kit Maquillaje;Tienda Física;Cali;Diego Morales;17;362.000;6.154.000;5,0%;307.700;5.846.300;Tarjeta Débito;3,4
+VTA-2024086;23/03/2024;Alimentos;Té Orgánico;App Móvil;Medellín;Diego Morales;12;69.000;828.000;0,0%;0;828.000;Tarjeta Débito;4,3
+VTA-2024087;14/06/2024;Juguetes;Rompecabezas 1000pzs;App Móvil;Cartagena;Valentina Cruz;18;35.000;630.000;5,0%;31.500;598.500;Efectivo;3,6
+VTA-2024088;14/11/2024;Ropa y Accesorios;Zapatillas Running;Catálogo;Bogotá;Paola Vargas;15;247.000;3.705.000;0,0%;0;3.705.000;Tarjeta Crédito;4
+VTA-2024089;23/12/2024;Libros y Papelería;Atlas Mundial;App Móvil;Bogotá;María González;9;84.000;756.000;0,0%;0;756.000;Tarjeta Débito;3,9
+VTA-2024090;25/04/2024;Libros y Papelería;Libro Análisis de Datos;Tienda Física;Barranquilla;Luis Herrera;10;84.000;840.000;0,0%;0;840.000;Nequi;3,8
+VTA-2024091;04/09/2024;Ropa y Accesorios;Zapatillas Running;Tienda Física;Cali;Diego Morales;10;297.000;2.970.000;15,0%;445.500;2.524.500;Tarjeta Débito;3,8
+VTA-2024092;05/02/2024;Libros y Papelería;Agenda Ejecutiva 2025;App Móvil;Cali;Valentina Cruz;7;91.000;637.000;10,0%;63.700;573.300;Daviplata;4,8
+VTA-2024093;03/12/2024;Belleza y Salud;Afeitadora Eléctrica;Marketplace;Cartagena;Carlos Ríos;10;401.000;4.010.000;0,0%;0;4.010.000;Nequi;4,2
+VTA-2024094;13/06/2024;Libros y Papelería;Agenda Ejecutiva 2025;App Móvil;Manizales;Andrés López;11;84.000;924.000;20,0%;184.800;739.200;Nequi;3,8
+VTA-2024095;14/07/2024;Deportes;Botella Térmica;E-commerce;Pereira;María González;14;142.000;1.988.000;0,0%;0;1.988.000;Daviplata;3,9
+VTA-2024096;13/08/2024;Alimentos;Té Orgánico;E-commerce;Manizales;Carlos Ríos;5;81.000;405.000;10,0%;40.500;364.500;Tarjeta Débito;4,7
+VTA-2024097;15/05/2024;Ropa y Accesorios;Bolso Cuero;App Móvil;Bogotá;Luis Herrera;14;111.000;1.554.000;0,0%;0;1.554.000;PSE;4,6
+VTA-2024098;06/09/2024;Juguetes;Juego de Mesa Monopoly;App Móvil;Medellín;Andrés López;18;125.000;2.250.000;0,0%;0;2.250.000;Daviplata;4,4
+VTA-2024099;20/11/2024;Electrónica;Cargador Inalámbrico;Tienda Física;Barranquilla;Sofía Restrepo;8;1.716.000;13.728.000;0,0%;0;13.728.000;PSE;5
+VTA-2024100;10/07/2024;Ropa y Accesorios;Zapatillas Running;E-commerce;Cartagena;Carlos Ríos;2;200.000;400.000;20,0%;80.000;320.000;Efectivo;3,6
+TOTALES;;;;;;;1.049;325.400;356.487.000;;29.164.250;327.322.750;;4,1
